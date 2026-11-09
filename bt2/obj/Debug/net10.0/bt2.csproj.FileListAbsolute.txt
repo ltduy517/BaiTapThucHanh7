@@ -1,0 +1,14 @@
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\bin\Debug\net10.0\bt2.exe
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\bin\Debug\net10.0\bt2.deps.json
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\bin\Debug\net10.0\bt2.runtimeconfig.json
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\bin\Debug\net10.0\bt2.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\bin\Debug\net10.0\bt2.pdb
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\obj\Debug\net10.0\bt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\obj\Debug\net10.0\bt2.AssemblyInfoInputs.cache
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\obj\Debug\net10.0\bt2.AssemblyInfo.cs
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\obj\Debug\net10.0\bt2.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\obj\Debug\net10.0\bt2.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\obj\Debug\net10.0\refint\bt2.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\obj\Debug\net10.0\bt2.pdb
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\obj\Debug\net10.0\bt2.genruntimeconfig.cache
+C:\Users\TRUNG DUY\BaiTapThucHanh7\bt2\obj\Debug\net10.0\ref\bt2.dll
